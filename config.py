@@ -1,6 +1,6 @@
 customhost = "employee.ci9cl96hqxwx.ap-south-1.rds.amazonaws.com"
-customuser = "intellipaat"
+customuser = "admin"
 custompass = "intellipaat123"
 customdb = "employee"
-custombucket = "addemployee"
+custombucket = "empbuk"
 customregion = "us-south-1"
