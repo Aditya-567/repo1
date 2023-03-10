@@ -1,6 +1,6 @@
 customhost = "employee.ci9cl96hqxwx.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
-custompass = "intellipaat123"
+custompass = "bloodreaper"
 customdb = "employee"
 custombucket = "empbuk"
 customregion = "ap-south-1"
